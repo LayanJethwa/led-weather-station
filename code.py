@@ -11,8 +11,8 @@ import math
 from PIL import Image
 from io import BytesIO
 
-city = "Loughborough, GB"
-url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid=2600288cd7cff5584c34b20cedb6dc72&units=metric'.format(city)
+city = ""
+url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid=[]&units=metric'.format(city)
 data = ''
 
 font = adafruit_bitmap_font.bitmap_font.load_font("5x7 practical-11-r.bdf")
