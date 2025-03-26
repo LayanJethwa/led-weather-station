@@ -24,6 +24,6 @@ On line 14, edit the text inside the quotation marks to show the name of the cit
 
 On line 15, put your OpenWeatherMap API key inside the square brackets, then delete the square brackets (should look like this: `url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid=yourapikeygoeshere&units=metric'.format(city)`)
 
-![Demo screenshot](https://github.com/LayanJethwa/led-weather-station/blob/main/screenshot)
+![Demo screenshot](https://github.com/LayanJethwa/led-weather-station/blob/main/screenshot.png)
 
-![Demo picture](https://github.com/LayanJethwa/led-weather-station/blob/main/picture)
+![Demo picture](https://github.com/LayanJethwa/led-weather-station/blob/main/picture.jpg)
