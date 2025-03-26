@@ -26,3 +26,4 @@ On line 15, put your OpenWeatherMap API key inside the square brackets, then del
 
 ![Demo screenshot](https://github.com/LayanJethwa/led-weather-station/blob/main/screenshot)
 
+![Demo picture](https://github.com/LayanJethwa/led-weather-station/blob/main/picture)
